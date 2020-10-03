@@ -39,4 +39,4 @@ client.on(arr[2], msg => {
 });
 
 //Login into your bot with Token
-client.login(token);
+client.login(BOT_TOKEN);
